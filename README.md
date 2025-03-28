@@ -70,7 +70,6 @@ Microcontroller (Arduino)	Processes sensor data, triggers alarm	Reliable, easy t
 Buzzer	Alerts users with sound	Immediate warning, low power consumption
 LED Indicator	Visual warning	Extra alert system for safety
 Resistors & Wires	Protects components and connects them	Prevents circuit damage, ensures stability
-________________________________________
 
 
 
@@ -129,6 +128,8 @@ The alarm function blinks the red LED and activates a 400 Hz buzzer sound to ale
 5.7 Libraries and Tools Used
 •	Arduino IDE – for writing and uploading the program.
 •	Wokwi Simulator – for testing the microcontroller-based system.
+
+
 6. Working Principle
 The gas leak detection system is designed to continuously monitor air quality for LPG (Liquefied Petroleum Gas) leaks. It operates based on the following principles:
 6.1 Gas Detection Process
